@@ -75,9 +75,9 @@ export default function Pricing() {
         </div>
 
         <a
-          href="https://pay.kiwify.com.br/SEULINK"
-          target="_blank"
-          rel="noopener noreferrer"
+         href="https://pay.kiwify.com.br/nXeX75F"
+target="_blank"
+rel="noopener noreferrer"
        className="shine-button relative overflow-hidden block mt-10 w-full rounded-xl bg-gradient-to-r from-green-500 to-emerald-400 py-6 text-xl font-bold text-black shadow-[0_0_30px_rgba(34,197,94,.45)] transition-all duration-300 hover:scale-105 hover:shadow-[0_0_50px_rgba(34,197,94,.8)] active:scale-95"
         >
          <span className="relative z-10 flex items-center justify-center gap-2">
