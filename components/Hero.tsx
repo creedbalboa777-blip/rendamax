@@ -6,10 +6,10 @@ import Image from "next/image";
 
 export default function Hero() {
   return (
-    <section
-      id="inicio"
-      className="relative min-h-screen flex items-center overflow-hidden px-6 pt-8"
-    >
+  <section
+  id="inicio"
+className="relative min-h-screen flex items-center overflow-hidden px-6 pt-36 md:pt-28"
+>
       <div className="absolute inset-0 -z-10 bg-[radial-gradient(circle_at_top,#22c55e20,transparent_60%)]" />
 
       <div className="max-w-7xl mx-auto w-full grid lg:grid-cols-2 gap-14 items-center">
@@ -29,7 +29,7 @@ export default function Hero() {
     duration: 1,
     ease: "easeOut",
   }}
-  className="text-6xl md:text-8xl font-extrabold text-green-400 drop-shadow-[0_0_50px_rgba(34,197,94,0.8)]"
+  className="text-5xl md:text-7xl font-extrabold text-green-400 drop-shadow-[0_0_50px_rgba(34,197,94,0.8)]"
 >
   RENDA MAX
 </motion.h1>
@@ -94,7 +94,7 @@ rel="noopener noreferrer"
   repeat: Infinity,
   ease: "easeInOut",
 }}
-  className="relative flex justify-center scale-[1.35]"
+  className="relative flex justify-center lg:scale-110"
 >
   <div className="absolute w-[500px] h-[500px] bg-green-500/20 rounded-full blur-[120px] animate-pulse"></div>
           <Image

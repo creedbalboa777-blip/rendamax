@@ -2,14 +2,15 @@ import Image from "next/image";
 export default function Header() {
   return (
     <header className="fixed top-0 left-0 w-full bg-black/80 backdrop-blur-md border-b border-zinc-800 z-50">
-<div className="max-w-7xl mx-auto flex items-center justify-between px-4 md:px-8 py-3 md:py-6">
-        <Image
+<div className="max-w-7xl mx-auto flex items-center justify-between px-4 md:px-8 py-2 md:py-5">
+      <a href="#inicio" className="flex items-center">
+       <Image
   src="/logo-rendamax.png"
   alt="Renda Max"
   width={500}
   height={140}
   priority
-  className="w-[260px] md:w-[340px] h-auto"
+  className="w-[180px] md:w-[340px] h-auto"
 />
         </a>
 
@@ -35,7 +36,7 @@ export default function Header() {
   href="https://pay.kiwify.com.br/nXeX75F"
   target="_blank"
   rel="noopener noreferrer"
-  className="bg-green-500 hover:bg-green-600 px-5 py-2 rounded-lg font-semibold transition"
+  className="bg-green-500 hover:bg-green-600 px-3 py-2 md:px-5 md:py-2 rounded-lg font-semibold transition text-sm md:text-base"
 >
   Começar
 </a>
