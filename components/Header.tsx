@@ -2,7 +2,7 @@ import Image from "next/image";
 export default function Header() {
   return (
     <header className="fixed top-0 left-0 w-full bg-black/80 backdrop-blur-md border-b border-zinc-800 z-50">
-<div className="max-w-7xl mx-auto flex items-center justify-between px-4 md:px-8 py-2 md:py-5">
+<div className="max-w-7xl mx-auto flex items-center justify-between px-6 md:px-8 py-3">
       <a href="#inicio" className="flex items-center">
        <Image
   src="/logo-rendamax.png"
@@ -10,7 +10,7 @@ export default function Header() {
   width={500}
   height={140}
   priority
-  className="w-[180px] md:w-[340px] h-auto"
+className="w-[180px] md:w-[250px] h-auto"
 />
         </a>
 

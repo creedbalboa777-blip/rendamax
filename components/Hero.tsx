@@ -8,11 +8,11 @@ export default function Hero() {
   return (
   <section
   id="inicio"
-className="relative min-h-screen flex items-center overflow-hidden px-6 pt-36 md:pt-28"
+className="relative min-h-screen flex items-center overflow-hidden px-6 pt-40 md:pt-32"
 >
       <div className="absolute inset-0 -z-10 bg-[radial-gradient(circle_at_top,#22c55e20,transparent_60%)]" />
 
-      <div className="max-w-7xl mx-auto w-full grid lg:grid-cols-2 gap-14 items-center">
+      <div className="max-w-7xl mx-auto w-full grid lg:grid-cols-2 gap-14 items-center mt-8">
 
         {/* TEXTO */}
         <div>
