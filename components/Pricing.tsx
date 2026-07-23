@@ -23,8 +23,7 @@ export default function Pricing() {
         Comece hoje mesmo sua jornada utilizando Inteligência Artificial para criar novas fontes de renda.
       </p>
 
-<div className="max-w-xl mx-auto mt-12 rounded-3xl bg-zinc-900 border border-green-500 shadow-[0_0_40px_rgba(34,197,94,0.25)] p-10 animate-glow-border">       
-
+<div className="w-full max-w-xl mx-auto mt-12 rounded-3xl bg-zinc-900 border border-green-500 shadow-[0_0_40px_rgba(34,197,94,0.25)] p-6 md:p-10 overflow-hidden animate-glow-border">
         <div className="flex justify-center">
   <span className="animate-pulse inline-block bg-green-500 text-black font-bold px-6 py-3 rounded-full shadow-[0_0_20px_rgba(34,197,94,.6)]">
     🔥 OFERTA ESPECIAL POR TEMPO LIMITADO
