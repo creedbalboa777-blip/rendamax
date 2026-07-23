@@ -8,7 +8,7 @@ export default function Hero() {
   return (
   <section
   id="inicio"
-className="relative min-h-screen flex items-center overflow-hidden px-6 pt-40 md:pt-32"
+className="relative min-h-screen flex items-center overflow-hidden px-6 pt-20 md:pt-16"
 >
       <div className="absolute inset-0 -z-10 bg-[radial-gradient(circle_at_top,#22c55e20,transparent_60%)]" />
 
