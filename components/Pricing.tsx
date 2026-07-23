@@ -36,10 +36,9 @@ export default function Pricing() {
           De R$127,90
         </p>
 
-        <h3 className="mt-2 text-8xl font-extrabold text-green-400 drop-shadow-[0_0_40px_rgba(34,197,94,0.9)]">
-  R$68,99
+       <h3 className="mt-2 text-5xl sm:text-6xl md:text-8xl font-extrabold text-green-400 text-center break-words drop-shadow-[0_0_40px_rgba(34,197,94,0.9)]">
+  R$47,00
 </h3>
-
         <p className="text-gray-400 mt-2">
           ou até <strong>12x</strong> no cartão
         </p>
