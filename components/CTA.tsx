@@ -16,15 +16,18 @@ export default function CTA() {
           inteligência artificial, organização e estratégias práticas.
         </p>
 
-        <button
-         className="shine-button mt-10 bg-green-500 hover:bg-green-400
-          px-10 py-5 rounded-xl text-xl font-bold
-          hover:scale-105 active:scale-95
-          transition-all duration-300
-          shadow-lg shadow-green-500/40"
-        >
-          QUERO COMEÇAR AGORA
-        </button>
+       <a
+  href="https://pay.kiwify.com.br/nXeX75F"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="shine-button inline-block mt-10 bg-green-500 hover:bg-green-400
+  px-10 py-5 rounded-xl text-xl font-bold
+  hover:scale-105 active:scale-95
+  transition-all duration-300
+  shadow-lg shadow-green-500/40"
+>
+  QUERO COMEÇAR AGORA
+</a>
 
       </div>
     </section>
