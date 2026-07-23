@@ -61,7 +61,7 @@ export default function Testimonials() {
   <div className="absolute inset-0 rounded-full bg-green-500/25 blur-lg"></div>
 
   <div className="relative w-16 h-16 rounded-full bg-green-500/20 border border-green-500 flex items-center justify-center text-2xl font-bold text-green-400">
-    J
+    M
   </div>
 
 </div>
@@ -91,7 +91,7 @@ export default function Testimonials() {
   <div className="absolute inset-0 rounded-full bg-green-500/25 blur-lg"></div>
 
   <div className="relative w-16 h-16 rounded-full bg-green-500/20 border border-green-500 flex items-center justify-center text-2xl font-bold text-green-400">
-    J
+    C
   </div>
 
 </div>
