@@ -44,7 +44,7 @@ export default function Testimonials() {
   ⭐ ⭐ ⭐ ⭐ ⭐
 </div>
           <p className="mt-4 text-gray-400">
-            "Em poucas semanas consegui gerar minha primeira renda online."
+            Em poucas semanas consegui gerar minha primeira renda online.
           </p>
         </motion.div>
 
@@ -74,7 +74,7 @@ export default function Testimonials() {
   ⭐ ⭐ ⭐ ⭐ ⭐
 </div>
           <p className="mt-4 text-gray-400">
-            "O método é simples, direto e muito fácil de aplicar."
+            O método é simples, direto e muito fácil de aplicar.
           </p>
         </motion.div>
 
@@ -104,7 +104,7 @@ export default function Testimonials() {
   ⭐ ⭐ ⭐ ⭐ ⭐
 </div>
           <p className="mt-4 text-gray-400">
-            "Foi o melhor investimento que fiz para aprender renda online."
+            Foi o melhor investimento que fiz para aprender renda online.
           </p>
         </motion.div>
 
