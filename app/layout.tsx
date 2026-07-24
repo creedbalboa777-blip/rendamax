@@ -17,8 +17,8 @@ export const metadata: Metadata = {
   title: "Renda Max | Transforme seu tempo em renda usando IA",
   description:
     "Aprenda como gerar renda online utilizando Inteligência Artificial, ferramentas modernas e estratégias práticas. Método Renda Max.",
-
-  verification: {
+    
+verification: {
   google: "Ekvj5etsirGtjGXEFjRbrALIBdQfDyyOBNGzCdU5fIg",
 },
   keywords: [
